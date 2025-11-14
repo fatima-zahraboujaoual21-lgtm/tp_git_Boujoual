@@ -1,2 +1,2 @@
 "Soup recipe" 
-2 carrotes
+2 carrotes"2 carrotes" 
